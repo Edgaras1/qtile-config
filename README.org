@@ -1,0 +1,4 @@
+* Issues
+** No way to resize or move tiled windows with mouse (mod + mouse actions)
+    see https://github.com/qtile/qtile/issues/855
+** No way to set borders around bar ?
