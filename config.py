@@ -109,8 +109,7 @@ widget_defaults = dict(
     font='Ubuntu Mono',
     fontsize=12,
     padding=2,
-    foreground = colors[2],
-    background = colors[0]
+
 )
 extension_defaults = widget_defaults.copy()
 
@@ -172,9 +171,9 @@ screens = [
                     padding = 0,
                     scale = 0.7
                 ),
-                #widget.Pomodoro()
             ],
             24,
+            background = colors[0]
         ),
     ),
 ]
